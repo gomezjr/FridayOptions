@@ -1,0 +1,7 @@
+C:\Users\Miguel Gomez Jr\source\repos\FridayOptions\FridayOptions\obj\Debug\FridayOptions.csprojAssemblyReference.cache
+C:\Users\Miguel Gomez Jr\source\repos\FridayOptions\FridayOptions\obj\Debug\FridayOptions.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Gomez Jr\source\repos\FridayOptions\FridayOptions\bin\Debug\FridayOptions.exe.config
+C:\Users\Miguel Gomez Jr\source\repos\FridayOptions\FridayOptions\bin\Debug\FridayOptions.exe
+C:\Users\Miguel Gomez Jr\source\repos\FridayOptions\FridayOptions\bin\Debug\FridayOptions.pdb
+C:\Users\Miguel Gomez Jr\source\repos\FridayOptions\FridayOptions\obj\Debug\FridayOptions.exe
+C:\Users\Miguel Gomez Jr\source\repos\FridayOptions\FridayOptions\obj\Debug\FridayOptions.pdb
